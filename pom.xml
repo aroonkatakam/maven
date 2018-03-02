@@ -22,4 +22,19 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
+ <distributionManagement>
+  <snapshotRepository>
+    <id>maven-snapshots</id>
+    <url>http://35.185.85.227:8081/nexus/content/repositories/maven-snapshots</url>
+  </snapshotRepository>
+  <repository>
+    <id>maven-releases</id>
+    <url>http://35.185.85.227:8081/nexus/content/repositories/maven-releases</url>
+  </repository>
+</distributionManagement>
+
+
 </project>
+
+
