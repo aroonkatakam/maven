@@ -4,11 +4,7 @@
 
   <groupId>com.company.adp</groupId>
   <artifactId>my_app</artifactId>
-<<<<<<< HEAD
   <version>15.0-SNAPSHOT</version>
-=======
-  <version>13.0-SNAPSHOT</version>
->>>>>>> 3741935177e46523837167a92c833d89b78e45c4
   <packaging>jar</packaging>
 
   <name>my_app</name>
