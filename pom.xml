@@ -4,7 +4,7 @@
 
   <groupId>com.company.adp</groupId>
   <artifactId>my_app</artifactId>
-  <version>6.0</version>
+  <version>7777777.0</version>
   <packaging>jar</packaging>
 
   <name>my_app</name>
@@ -26,11 +26,11 @@
 <distributionManagement>
   <snapshotRepository>
     <id>maven-snapshots</id>
-    <url>http://35.185.73.97:8081/nexus/content/repositories/maven-snapshots</url>
+    <url>http://35.231.11.49:8081/nexus/content/repositories/maven-snapshots</url>
   </snapshotRepository>
   <repository>
     <id>maven-releases</id>
-    <url>http://35.185.73.97:8081/nexus/content/repositories/maven-releases</url>
+    <url>http://35.231.11.49:8081/nexus/content/repositories/maven-releases</url>
   </repository>
 </distributionManagement>
 
