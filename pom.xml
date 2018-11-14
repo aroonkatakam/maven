@@ -4,7 +4,7 @@
 
   <groupId>com.company.adp</groupId>
   <artifactId>my_app</artifactId>
-  <version>20.0</version>
+  <version>22.0</version>
   <packaging>jar</packaging>
 
   <name>my_app</name>
